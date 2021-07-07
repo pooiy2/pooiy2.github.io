@@ -4,7 +4,7 @@ Hello there. My name is Luke Keating. I graduated from the University of Califor
 
 ## Projects
 //TODO: insert gifs
-# Robot Seal
+### Robot Seal
 
 
 [Full Video](https://www.youtube.com/watch?v=yxYAd3zFkkI)
@@ -16,19 +16,19 @@ I collaborated on this robot seal as my final project for my Psych 112R (Cogniti
 
 The seal was one of the most fun projects to work on. Most of my projects remain in the digital world. It was nice to see a project in the real world and be able to interact with it.
 
-# Dartboard 
+### Dartboard 
 
 //Add video
 
 This was another fun project to work on. I was getting tired of sitting indoors and doing nothing all day during the pandemic so I decided to create an interactive project. This project led to some very fun family nights with the large projector in the living room.
 
-# Christmas Lights
+### Christmas Lights
 
 //Add video
 
 I didn't do any coding for this project but it was too much fun to leave off (I may just want to show off my Christmas lights). I did learn a lot about using a raspberry pi and creating a local network. I also soldered for the first time in my personal life. Who knew that the one engineering course I took my freshman year would come in handy!
 
-# So Many Bots
+### So Many Bots
 
 //Add video
 
@@ -37,33 +37,3 @@ Who knew writing bots could be so much fun. I've made more than I can count. Som
 # Future Projects
 
 I'm always looking for the next thing to do. Stay tuned here if you want to see more.
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pooiy2/pooiy2.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
