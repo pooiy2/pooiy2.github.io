@@ -2,10 +2,9 @@
 
 Hello there. My name is Luke Keating. I graduated from the University of California, Irvine with the class of 2021. I double majored with a BS in Computer Science and a BA in Psychology. I like to make things that are fun to and can put a smile on someone's face. I made this page to share some of my favorite projects. If you would like to see my projects in more detail, you can visit them in their entirety [here](https://github.com/pooiy2).
 
-## Projects
-//TODO: insert gifs
-### Robot Seal
+# Robot Seal
 
+![Seal](https://user-images.githubusercontent.com/45306137/124833727-7689ca80-df33-11eb-92ab-39a43b8afcd8.gif)
 
 [Full Video](https://www.youtube.com/watch?v=yxYAd3zFkkI)
 
@@ -16,21 +15,21 @@ I collaborated on this robot seal as my final project for my Psych 112R (Cogniti
 
 The seal was one of the most fun projects to work on. Most of my projects remain in the digital world. It was nice to see a project in the real world and be able to interact with it.
 
-### Dartboard 
+# Dartboard 
 
-//Add video
+![Dartboard](https://user-images.githubusercontent.com/45306137/124836491-e4d08c00-df37-11eb-9a6b-9d7f5448a7fe.gif)
 
 This was another fun project to work on. I was getting tired of sitting indoors and doing nothing all day during the pandemic so I decided to create an interactive project. This project led to some very fun family nights with the large projector in the living room.
 
-### Christmas Lights
+# Christmas Lights
 
-//Add video
+[Click here to watch!](pooiy2.github.io)
 
 I didn't do any coding for this project but it was too much fun to leave off (I may just want to show off my Christmas lights). I did learn a lot about using a raspberry pi and creating a local network. I also soldered for the first time in my personal life. Who knew that the one engineering course I took my freshman year would come in handy!
 
-### So Many Bots
+# So Many Bots
 
-//Add video
+[Click here to watch!](pooiy2.github.io)
 
 Who knew writing bots could be so much fun. I've made more than I can count. Some of them were quite practical while others were chaotic. My favorite bot was the one that would send my cousin a random poem every 30 minutes. That's what he gets for ignoring my phone calls.
 
