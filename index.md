@@ -10,9 +10,6 @@ Hello there. My name is Luke Keating. I graduated from the University of Califor
 
 [School Article](https://www.socsci.uci.edu/newsevents/news/2020/2020-03-20-socially-assistive-robotics.php)
 
-//TODO:Move this paragraph into seal respository instead of introductory page.
-I collaborated on this robot seal as my final project for my Psych 112R (Cognitive Robotics) class. We were given open ended instructions on what we could build for the final project. My group decided to create a socially assistive robot, something we had been introduced to in the class. Zili Zhong built the robot, Gianna Bandoni sewed the seal, and I wrote the code. The seal learns behavior using a genetic algorithm. When the seal is turned on, it initializes with random flipper behavior. Its behavior can be positively reinforced when the seal is pet on the head, noted by a purr, and negatively reinforced when the seal is pinched on the tail, noted by a growl. As the user interacts with the seal, the seal will learn to behave in a way to garners the highest amount of positive attention.  
-
 The seal was one of the most fun projects to work on. Most of my projects remain in the digital world. It was nice to see a project in the real world and be able to interact with it.
 
 # Dartboard 
