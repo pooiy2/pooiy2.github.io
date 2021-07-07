@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Page
 
-You can use the [editor on GitHub](https://github.com/pooiy2/pooiy2.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello there. My name is Luke Keating. I graduated from the University of California, Irvine with the class of 2021. I double majored with a BS in Computer Science and a BA in Psychology.
 
 ### Markdown
 
