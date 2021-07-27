@@ -1,6 +1,6 @@
 # Welcome to My Page
 
-Hello there. My name is Luke Keating. I graduated from the University of California, Irvine with the class of 2021. I double majored with a BS in Computer Science and a BA in Psychology. I like to make things that are fun to and can put a smile on someone's face. I made this page to share some of my favorite projects. If you would like to see my projects in more detail, you can visit them in their entirety [here](https://github.com/pooiy2).
+Hello there. My name is Luke Keating. I graduated from the University of California, Irvine with the class of 2021. I double majored with a BS in Computer Science and a BA in Psychology. I like to make things that are fun to and can put a smile on someone's face. I made this page to share some of my favorite projects. If you would like to see my projects in more detail, you can visit them in their entirety [here](https://github.com/pooiy2). You can also check out my resume [here](https://docs.google.com/document/d/1zEbBAFWX7JU9GU9sdO4X7wVq8aKU3a-DQR1_kq-1bhI/edit?usp=sharing).
 
 # Robot Seal
 
