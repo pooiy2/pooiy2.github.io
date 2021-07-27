@@ -24,11 +24,11 @@ This was another fun project to work on. I was getting tired of sitting indoors 
 
 I didn't do any coding for this project but it was too much fun to leave off (I may just want to show off my Christmas lights). I did learn a lot about using a raspberry pi and creating a local network. I also soldered for the first time in my personal life. Who knew that the one engineering course I took my freshman year would come in handy!
 
-# So Many Bots
+# Health App
 
-[Click here to watch!](pooiy2.github.io)
+[Check Your Risk!](pooiy2.github.io)
 
-Who knew writing bots could be so much fun. I've made more than I can count. Some of them were quite practical while others were chaotic. My favorite bot was the one that would send my cousin a random poem every 30 minutes. That's what he gets for ignoring my phone calls.
+This project was more on the practical side of things. I collaborated on a mobile application that determines the users risk for heart disease. It inputs the phones sensor data into a Bayes classifier in order to give an estimate of your heart disease risk. 
 
 # Future Projects
 
