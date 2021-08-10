@@ -4,7 +4,7 @@ Hello there. My name is Luke Keating. I graduated from the University of Califor
 
 # Robot Seal
 
-![Seal](https://user-images.githubusercontent.com/45306137/124833727-7689ca80-df33-11eb-92ab-39a43b8afcd8.gif)
+<img src="https://user-images.githubusercontent.com/45306137/124833727-7689ca80-df33-11eb-92ab-39a43b8afcd8.gif" width="800" height="450">
 
 [Full Video](https://www.youtube.com/watch?v=yxYAd3zFkkI)
 
@@ -14,7 +14,7 @@ The seal was one of the most fun projects to work on. Most of my projects remain
 
 # Dartboard 
 
-![Dartboard](https://user-images.githubusercontent.com/45306137/124836491-e4d08c00-df37-11eb-9a6b-9d7f5448a7fe.gif)
+<img src="https://user-images.githubusercontent.com/45306137/124836491-e4d08c00-df37-11eb-9a6b-9d7f5448a7fe.gif" width="800" height="450">
 
 This was another fun project to work on. I was getting tired of sitting indoors and doing nothing all day during the pandemic so I decided to create an interactive project. This project led to some very fun family nights with the large projector in the living room.
 
