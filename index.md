@@ -26,9 +26,15 @@ I didn't do any coding for this project but it was too much fun to leave off (I 
 
 # Health App
 
-[Check Your Risk!](pooiy2.github.io)
+[Link Coming Soon!](pooiy2.github.io)
 
 This project was more on the practical side of things. I collaborated on a mobile application that determines the users risk for heart disease. It inputs the phones sensor data into a Bayes classifier in order to give an estimate of your heart disease risk. 
+
+# Web Drivers
+
+[Link Coming Soon!](pooiy2.github.io)
+
+At the start of the pandemic I taught a few friends how to code in Python. As part of the course I demonstarted a Python bot using Selenium to automate sending text messages to people. It was gratifying to see my friends' exitement over the newfound possibilities that arised from this demonstration.
 
 # Future Projects
 
